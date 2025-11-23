@@ -1,2 +1,3 @@
 name = "oneword-api"
 main = "worker.js"
+compatibility_date = "2025-11-23"
